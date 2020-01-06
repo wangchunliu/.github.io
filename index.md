@@ -1,7 +1,4 @@
----
-layout: default
-title: Chunliu Wang
----
+
 
 # Chunliu Wang
 Ph.D. student at  
