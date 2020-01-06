@@ -1,4 +1,8 @@
 
+--
+layout: default
+title: Masashi Yoshikawa
+---
 
 # Chunliu Wang
 Ph.D. student at  
